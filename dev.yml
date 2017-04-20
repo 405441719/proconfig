@@ -1,9 +1,1 @@
-server:
-  port: 2222
-spring:
-  application:
-    name: ribbionClient
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8010/eureka/
+com.jiongyi.constant.active=dev
